@@ -28,7 +28,7 @@
   "kofiUrl": "",
   "malwareBanner": false,
   "DB_MODE": "sqlite",
-  "DB_PATH": "/var/www/upload-horse/uguu.sq3",
+  "DB_PATH": "/var/www/upload-horse-db/uguu.sq3",
   "DB_USER": "NULL",
   "DB_PASS": "NULL",
   "LOG_IP": false,
